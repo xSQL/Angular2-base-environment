@@ -1,0 +1,9 @@
+*.swo
+*.swp
+
+*\.del*
+.idea/*
+node_modules/*
+typings/*
+!\.d
+
