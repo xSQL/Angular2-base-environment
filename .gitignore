@@ -1,6 +1,6 @@
 *.swo
 *.swp
-
+package-lock.json
 *\.del*
 .idea/*
 node_modules/*
